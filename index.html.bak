@@ -14,7 +14,7 @@
             <div class="sticky">
             <div class="nav1">
                 <div class="navleft"> 
-                    <a href="#text"><div><img src="images/upwork.png"></div></a>                                               
+                    <a href="#text"><div><img src="images/upwork.PNG"></div></a>                                               
                     <div>Find Talent <i class="fa-solid fa-caret-down"></i></div>
                     <div>Find work <i class="fa-solid fa-caret-down"></i></div>
                     <div>Why Upwork <i class="fa-solid fa-caret-down"></i></div>
@@ -68,7 +68,7 @@
                             <p class="jobs">Browse jobs</p>
                         </div>
                         </div>
-                    <div class="img"><img src="images/globe.JPG" alt="globe" width="540px"></div>
+                    <div class="img"><img src="images/globe.jpg" alt="globe" width="540px"></div>
                     </div>
                     <div><br><br></div>
                     <div class="boxes">
@@ -149,16 +149,16 @@
             <p class="ss">A strong band<br> identity<br><br></p>
         </div>
         <div class="goal1">
-            <img src="capture2.png">
+            <img src="images/capture2.png">
             <p class="ss">Capturing videos <br> for your buisiness</p>
         </div>
         <div class="goal1">
-            <img src="capture3.png">
+            <img src="images/capture3.png">
             <p class="ss">Social media that <br> grows your brand</p>
         </div>
     </div>
     <div class="talent">
-        <div class="lll"><img src="find.jpg" width="550px" height="700px"></div>
+        <div class="lll"><img src="images/find.jpg" width="550px" height="700px"></div>
         <div class="aaa">
             <div class="bbb"><p>For talent</p></div>
             <div class="ccc"><h1>Find great <br> work</h1></div>
@@ -208,7 +208,7 @@
                 <div><br></div>
 
             </div>
-            <div class="arrow"><img src="arrow.png" ></div>
+            <div class="arrow"><img src="images/.png" ></div>
         </div>
         <div><br><br><br><br><br><br></div>
         <div class="top">
