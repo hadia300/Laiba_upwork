@@ -14,7 +14,7 @@
             <div class="sticky">
             <div class="nav1">
                 <div class="navleft"> 
-                    <a href="#text"><div><img src="images/upwork.png"></div></a>                                               
+                    <a href="#text"><div><img src="upwork.png"></div></a>                                               
                     <div>Find Talent <i class="fa-solid fa-caret-down"></i></div>
                     <div>Find work <i class="fa-solid fa-caret-down"></i></div>
                     <div>Why Upwork <i class="fa-solid fa-caret-down"></i></div>
@@ -43,7 +43,7 @@
             <div><br></div></div>
                 <div><br></div>
                 <div class="nav3">
-                    <div class="flag"><img src="images/flag.png" alt="flag" width="30px" height="30px"></div> 
+                    <div class="flag"><img src="flag.png" alt="flag" width="30px" height="30px"></div> 
                     <p><b>We are taking action to help our freelancers, our clients, and the people of Ukraine—and so can you. <span style="color: rgb(56, 238, 56);"> <span style="text-decoration:underline;"> Learn More</span> &rarr;</span>   </b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10005 </p>
                 </div>
                 <div class="How">
@@ -57,10 +57,10 @@
                         <div><br></div>
                         <p class="trusted">Trusted by</p>
                         <div class="logos">
-                            <img src="images/microsoft.png" alt="microsoft">
-                            <img src="images/airbnb.png" alt="airbnb">
-                            <img src="images/godaddy.png" alt="godaddy">
-                            <img src="images/blseel.png" alt="blseel">
+                            <img src="microsoft.png" alt="microsoft">
+                            <img src="airbnb.png" alt="airbnb">
+                            <img src="godaddy.png" alt="godaddy">
+                            <img src="blseel.png" alt="blseel">
                         </div>
                         <div class="h1"><h1><br>Browse talent by category</h1></div>
                         <div class="p">
@@ -68,7 +68,7 @@
                             <p class="jobs">Browse jobs</p>
                         </div>
                         </div>
-                    <div class="img"><img src="images/globe.JPG" alt="globe" width="540px"></div>
+                    <div class="img"><img src="images/globe@1x.JPG" alt="globe" width="540px"></div>
                     </div>
                     <div><br><br></div>
                     <div class="boxes">
@@ -114,7 +114,7 @@
                             <button class="buttons button1">Talk to a recruiter</button>
                         </div>
                         <div class="child2">
-                            <img src="images/capture4.png">
+                            <img src="capture4.png">
                         </div>                                                    
         </div>
             <br><br><br>
@@ -131,7 +131,7 @@
                 <div class="c3">Focus on your work knowing we help protect your data<br>and privacy. We’re here with 24/7 support if you need it.</div></div>
                 
             </div>
-            <div class="child22"><img src="images/reaching.png" width="150px" height="700px" ></div>
+            <div class="child22"><img src="reaching.png" width="150px" height="700px" ></div>
             <div class="child33">
                 <div class="c33"><p>We're <br>the world's work <br>marketplace</p><p> <span class="fa fa-star" style="color: white"></span> 4.9/5</p><p class="c333">Clients rate professionals on Upwork</p><p> <span class="fa fa-check-circle" style="font-size:24px"></span> Award winner <p class="c333"> G2’s 2021 Best Software Awards</p></div>
                 
@@ -145,20 +145,20 @@
     </div>
     <div class="goals">
         <div class="goal1">
-            <img src="images/capture11.png">
+            <img src="capture11.png">
             <p class="ss">A strong band<br> identity<br><br></p>
         </div>
         <div class="goal1">
-            <img src="images/capture2.png">
+            <img src="capture2.png">
             <p class="ss">Capturing videos <br> for your buisiness</p>
         </div>
         <div class="goal1">
-            <img src="images/capture3.png">
+            <img src="capture3.png">
             <p class="ss">Social media that <br> grows your brand</p>
         </div>
     </div>
     <div class="talent">
-        <div class="lll"><img src="images/find.jpg" width="550px" height="700px"></div>
+        <div class="lll"><img src="find.jpg" width="550px" height="700px"></div>
         <div class="aaa">
             <div class="bbb"><p>For talent</p></div>
             <div class="ccc"><h1>Find great <br> work</h1></div>
@@ -208,7 +208,7 @@
                 <div><br></div>
 
             </div>
-            <div class="arrow"><img src="images/.png" ></div>
+            <div class="arrow"><img src="arrow.png" ></div>
         </div>
         <div><br><br><br><br><br><br></div>
         <div class="top">
